@@ -1,0 +1,36 @@
+body{
+    font-family: 'Rubik Moonrocks', cursive;
+}
+.donation{
+    text-align: center;
+    padding-top: 40px;
+    background-image: url(/hhh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+}
+.anchor-button{
+    
+    text-decoration: none;
+    background: linear-gradient(red, orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+#line{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+section{
+    height : 500px;
+    padding-bottom: 150px;
+}
